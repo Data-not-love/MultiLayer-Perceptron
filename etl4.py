@@ -1,14 +1,10 @@
 import pandas as pd
 
 def update_missing_dimensions(input_csv, output_csv):
-    """
-    Hàm cập nhật các giá trị thiếu trong cột 'Chiều dài' và 'Chiều ngang' bằng giá trị trung vị của mỗi cột.
 
-    Tham số:
-    - input_csv: Đường dẫn đến file CSV đầu vào.
-    - output_csv: Đường dẫn đến file CSV đầu ra sau khi cập nhật.
-    """
-    # Đọc dữ liệu từ file CSV
+    #Hàm cập nhật các giá trị thiếu trong cột 'Chiều dài' và 'Chiều ngang' bằng giá trị trung vị của mỗi cột.
+
+
     df = pd.read_csv(input_csv)
 
     # Danh sách các cột cần xử lý

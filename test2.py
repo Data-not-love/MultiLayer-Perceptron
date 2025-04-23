@@ -87,9 +87,6 @@ def train_mlp_model(data):
     # Điền giá trị thiếu cho phân loại
     data[categorical_features] = data[categorical_features].fillna('Unknown')
 
-    # Rút gọn số lượng 'Đường' để tránh quá nhiều one-hot
-    top_streets = data['Đường'].value_counts().nlargest(30).index
-    data['Đường'] = data['Đường'].apply(lambda x: x if x in top_streets else 'Other')
 
     # Tạo đặc trưng X và mục tiêu y
     X = data[numeric_features + categorical_features + binary_cols]
@@ -137,17 +134,18 @@ def train_mlp_model(data):
     mse = mean_squared_error(y_test_original, predictions)
     r2 = r2_score(y_test_original, predictions)
 
-    # In kết quả
-    print(f"\n🧠 Mean Squared Error (MSE): {mse:.2f}")
-    print(f"🧠 R-squared (R²): {r2:.2f}\n")
+
 
     print("📊 Một số dự đoán mẫu:")
     results_df = pd.DataFrame({
         'Giá thực tế (Tỷ)': y_test_original.values,
         'Giá dự đoán (Tỷ)': predictions
     })
-    print(results_df.head(5).to_string(index=False))
+    print(results_df.head(100).to_string(index=False))
 
+    # In kết quả
+    print(f"\n🧠 Mean Squared Error (MSE): {mse:.2f}")
+    print(f"🧠 R-squared (R²): {r2:.2f}\n")
     # Vẽ biểu đồ so sánh
     plt.figure(figsize=(8, 5))
     plt.scatter(y_test_original, predictions, alpha=0.7)
