@@ -11,60 +11,9 @@ import matplotlib.pyplot as plt
 import joblib
 
 
-def predict_from_input(model):
-    # Nhập các thông tin đầu vào từ người dùng
-    print("Nhập thông tin bất động sản cần dự đoán:")
-    area = float(input("Diện tích (m2): "))
-    width = float(input("Chiều ngang (m): "))
-    length = float(input("Chiều dài (m): "))
-    street_width = float(input("Đường trước nhà (m): "))
-    floors = int(input("Số lầu: "))
-    bedrooms = int(input("Số phòng ngủ: "))
 
-    # Nhập các thông tin nhị phân
-    dining = input("Có phòng ăn? (y/n): ").lower() == 'y'
-    kitchen = input("Có nhà bếp? (y/n): ").lower() == 'y'
-    terrace = input("Có sân thượng? (y/n): ").lower() == 'y'
-    car_park = input("Có chỗ để xe hơi? (y/n): ").lower() == 'y'
-    owner = input("Chính chủ? (y/n): ").lower() == 'y'
-
-    # Nhập thông tin phân loại
-    street = input("Tên đường: ")
-    ward = input("Phường: ")
-    district = input("Quận: ")
-    city = input("Thành phố: ")
-    property_type = input("Loại BDS: ")
-    direction = input("Hướng: ")
-
-    # Tạo DataFrame chứa dữ liệu nhập vào
-    new_data = pd.DataFrame([{
-        'Diện tích': area,
-        'Chiều ngang': width,
-        'Chiều dài': length,
-        'Đường trước nhà': street_width,
-        'Số lầu': floors,
-        'Số phòng ngủ': bedrooms,
-        'Phòng ăn': int(dining),
-        'Nhà bếp': int(kitchen),
-        'Sân thượng': int(terrace),
-        'Chỗ để xe hơi': int(car_park),
-        'Chính chủ': int(owner),
-        'Đường': street,
-        'Phường': ward,
-        'Quận': district,
-        'Thành phố': city,
-        'Loại BDS': property_type,
-        'Hướng': direction
-    }])
-
-    # Dự đoán
-    log_price = model.predict(new_data)[0]
-    price = np.expm1(log_price)
-
-    print(f"💰 Giá bất động sản dự đoán: khoảng {price:.2f} tỷ đồng")
 # Hàm huấn luyện mô hình MLP
 def train_mlp_model(data):
-    # Đổi tên cột cho đồng nhất (nếu cần)
     data.rename(columns={
         'Giá (Tỷ)': 'Giá',
         'Diện tích (M2)': 'Diện tích'
@@ -99,26 +48,27 @@ def train_mlp_model(data):
     preprocessor = ColumnTransformer(
         transformers=[
             ('num', Pipeline([
-                ('imputer', SimpleImputer(strategy='median')),
-                ('scaler', StandardScaler())
+                ('imputer', SimpleImputer(strategy='median')), # thay các giá trị Nan về Median
+                ('scaler', StandardScaler()) #Chuẩn hóa dữ liệu về dạng có trung bình = 0, độ lệch chuẩn = 1 → Mục tiêu là giúp mô hình hội tụ tốt hơn khi dữ liệu đầu vào đồng đều.
             ]), numeric_features + binary_cols),
             ('cat', Pipeline([
-                ('imputer', SimpleImputer(strategy='constant', fill_value='Unknown')),
-                ('onehot', OneHotEncoder(handle_unknown='ignore', drop='first'))
+                ('imputer', SimpleImputer(strategy='constant', fill_value='Unknown')), # Nan replace with unkonw
+                ('onehot', OneHotEncoder(handle_unknown='ignore', drop='first')) # chưa có giá trị thì b qun thay vì báo lỗi
             ]), categorical_features)
         ])
 
-    # Pipeline mô hình với MLPRegressor (3 lớp ẩn: 128, 64, 32)
+
+#multilayer perceptron
     model_pipeline = Pipeline([
         ('preprocessor', preprocessor),
         ('mlp', MLPRegressor(
             hidden_layer_sizes=(128, 64, 32),
             activation='relu',
             solver='adam',
-            max_iter=500,
-            random_state=42,
-            early_stopping=True,
-            validation_fraction=0.1
+            max_iter=1500,
+            random_state=42
+            #early_stopping=True,
+            #validation_fraction=0.1
         ))
     ])
 
@@ -143,7 +93,7 @@ def train_mlp_model(data):
     })
     print(results_df.head(100).to_string(index=False))
 
-    # In kết quả
+
     print(f"\n🧠 Mean Squared Error (MSE): {mse:.2f}")
     print(f"🧠 R-squared (R²): {r2:.2f}\n")
     # Vẽ biểu đồ so sánh

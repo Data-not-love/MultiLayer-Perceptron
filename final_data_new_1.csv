@@ -1,5 +1,5 @@
 Giá,Diện tích,Đường,Phường,Quận,Thành phố,Loại BDS,Chiều ngang,Chiều dài,Hướng,Đường trước nhà,Số lầu,Số phòng ngủ,Phòng ăn,Nhà bếp,Sân thượng,Chỗ để xe hơi,Chính chủ
-,80.0,Đường Phạm Nổi,Phường Hòa Hải,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà trong hẻm,4.2,17.0,_,2.5,2,3,1,1,0,0,0
+80.0,Đường Phạm Nổi,Phường Hòa Hải,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà trong hẻm,4.2,17.0,_,2.5,2,3,1,1,0,0,0
 20.5,185.0,Đường Phước Trường 8,Phường Phước Mỹ,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,10.0,18.5,Nam,5.5,1,1,0,0,0,0,0
 32.0,188.0,Đường Võ Nguyên Giáp,Phường Khuê Mỹ,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,7.5,25.0,_,30.0,3,5,1,1,1,1,0
 4.9,90.0,Đường Hòa Nam,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,5.0,18.0,_,5.5,3,3,1,1,1,1,0
@@ -984,15 +984,6 @@ Giá,Diện tích,Đường,Phường,Quận,Thành phố,Loại BDS,Chiều nga
 4.9,65.0,Đường Phan Phú Tiên,Phường Thanh Khê Tây,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,5.0,13.0,Tây Nam,5.5,3,3,1,1,1,1,0
 7.0,98.0,Đường Huỳnh Ngọc Huệ,Phường An Khê,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,4.8,18.0,Đông Bắc,10.0,2,2,1,1,0,1,0
 5.5,85.0,Đường Đặng Huy Tá,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,5.0,17.0,Đông Bắc,5.5,3,3,1,1,1,1,0
-,,,,,,,5.0,18.0,,,,,0,0,0,0,0
-,,,,,,,5.0,18.0,,,,,0,0,0,0,0
-,,,,,,,5.0,18.0,,,,,0,0,0,0,0
-,,,,,,,5.0,18.0,,,,,0,0,0,0,0
-,,,,,,,5.0,18.0,,,,,0,0,0,0,0
-,,,,,,,5.0,18.0,,,,,0,0,0,0,0
-,,,,,,,5.0,18.0,,,,,0,0,0,0,0
-,,,,,,,5.0,18.0,,,,,0,0,0,0,0
-,,,,,,,5.0,18.0,,,,,0,0,0,0,0
 7.2,81.0,Đường An Xuân,Phường An Khê,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,4.5,19.0,Tây Nam,10.0,4,5,1,1,1,1,0
 23.0,126.0,Đường Lê Lợi,Phường Hải Châu,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,6.0,24.0,_,10.0,2,3,1,1,1,1,0
 7.0,101.0,Đường Phú Xuân,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,6.0,18.0,Đông Nam,5.5,3,3,1,1,1,1,0
@@ -1244,3 +1235,199 @@ Giá,Diện tích,Đường,Phường,Quận,Thành phố,Loại BDS,Chiều nga
 6.0,70.0,Đường Tiểu La,Phường Hòa Cường Bắc,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,5.0,14.0,_,5.5,2,3,1,1,1,1,0
 6.79,125.0,Đường Nguyễn Lương Bằng,Phường Hòa Khánh Bắc,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,5.0,25.0,_,30.0,2,3,1,1,0,0,0
 7.5,90.0,Đường Bà Huyện Thanh Quan,Phường Mỹ An,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà trong hẻm,8.5,11.0,_,5.0,1,3,1,1,0,1,0
+31.0,123.0,Đường Lê Quang Đạo,Phường Mỹ An,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,7.5,17.0,Đông,7.5,2,---,0,0,0,1,0
+12.0,37.0,Đường 2/9,Phường Hòa Thuận Tây,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,6.5,6.0,Đông,32.0,3,3,0,0,0,1,0
+6.4,95.0,Đường Nước Mặn 5,Phường Khuê Mỹ,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,5.0,18.0,Tây Nam,7.5,4,6,1,1,1,1,0
+12.0,100.0,Đường Trần Quốc Vượng,Phường Hòa Hải,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,5.0,20.0,Đông,5.5,8,12,1,1,1,1,0
+6.95,100.0,Đường Ngô Huy Diễn,Phường Hòa Xuân,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,5.0,18.0,_,7.5,3,5,1,1,1,1,0
+13.0,82.0,Đường Thạch Lam,Phường Phước Mỹ,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,18.0,_,5.5,4,8,1,1,1,1,0
+9.7,100.0,Đường Trương Hán Siêu,Phường Nại Hiên Đông,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,18.0,_,7.5,2,4,1,1,1,1,0
+17.8,136.0,Đường 30/4,Phường Hòa Cường Bắc,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,5.0,18.0,_,30.0,4,5,0,0,0,0,0
+21.0,122.0,Đường Châu Thị Vĩnh Tế,Phường Mỹ An,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,8.0,18.0,_,7.5,2,4,1,1,0,0,0
+,154.0,Đường Nguyễn Chí Thanh,Phường Thạch Thang,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,7.5,18.0,_,20.0,2,4,1,1,1,1,0
+13.8,72.0,Đường Đống Đa,Phường Thạch Thang,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,4.5,18.0,_,15.0,5,4,1,1,1,1,0
+19.3,132.0,Đường Lê Thanh Nghị,Phường Hòa Cường Bắc,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,6.0,18.0,_,10.0,3,4,1,1,1,1,0
+26.0,150.0,Đường 2/9,Phường Hòa Cường Bắc,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,6.0,18.0,_,33.0,4,7,1,1,1,1,0
+10.5,100.0,Đường Hoài Thanh,Phường Mỹ An,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,5.0,20.0,_,7.5,3,5,1,1,1,1,0
+29.0,217.0,Đường Núi Thành,Phường Hòa Cường Bắc,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,10.0,18.0,_,10.0,3,5,1,1,1,1,0
+27.0,110.0,Đường Hồ Nghinh,Phường Phước Mỹ,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,18.0,_,20.0,6,10,1,1,1,1,0
+75.0,224.0,Đường Lê Duẩn,Phường Thạch Thang,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,7.5,18.0,_,15.0,4,5,1,1,1,1,0
+26.3,95.0,Đường Phan Tôn,Phường Mỹ An,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,17.5,18.0,_,7.5,3,3,0,0,0,0,0
+4.2,52.0,Đường An Hải 1,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,4.0,18.0,_,4.0,1,3,0,0,0,0,0
+9.0,85.0,Đường Trần Nhân Tông,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,18.0,Tây Bắc,15.0,3,3,1,1,1,1,0
+5.8,91.0,11 Đường Trần Triệu Luật,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,4.5,20.0,Đông Bắc,11.0,3,3,1,1,1,1,0
+20.888,100.0,370 Đường Trần Hưng Đạo,Phường An Hải Tây,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,20.0,Đông,15.0,1,1,1,1,1,1,0
+6.9,100.0,180 Đường Nguyễn Xí,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,5.0,20.0,Tây Nam,8.0,4,5,1,1,1,1,0
+10.5,100.0,23 Đường Lý Thánh Tông,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,20.0,Đông Bắc,11.0,1,1,1,1,1,1,0
+8.5,125.0,46 Đường Lê Anh Xuân,Phường Hòa Cường Nam,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,7.0,18.0,Đông Nam,6.0,3,6,1,1,1,1,0
+5.5,113.0,222 Đường Nguyễn Công Hoan,Phường Hòa An,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,5.0,23.0,Đông Nam,8.0,2,3,1,1,1,1,0
+7.5,170.0,22 Đường Hòa Phú 6,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,10.0,17.0,Tây Bắc,6.0,2,3,1,1,1,1,0
+5.5,115.0,123 Đường Nguyễn Công Hoan,Phường Hòa An,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,5.0,23.0,Đông Nam,8.0,2,3,1,1,1,1,0
+4.0,65.0,123 Đường Phan Nhu,Phường Thanh Khê Tây,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,4.5,15.0,Đông Bắc,6.0,2,3,1,1,1,1,0
+7.5,170.0,22 Đường Hòa Phú 6,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,10.0,17.0,Tây Bắc,6.0,2,3,1,1,1,1,0
+27.0,165.0,75 Đường Hải Phòng,Phường Thạch Thang,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,7.5,22.0,Bắc,15.0,3,4,1,1,1,1,0
+4.9,75.0,77 Đường Phùng Chí Kiên,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,5.0,15.0,Bắc,6.0,2,3,1,1,1,1,0
+6.5,108.0,484 Đường Kinh Dương Vương,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,4.5,24.0,Tây Nam,15.0,1,1,1,1,1,1,0
+5.3,100.0,9 Đường Trần Xuân Lê,Phường Hòa Khê,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,5.0,20.0,Đông Nam,6.0,2,4,1,1,1,1,0
+8.1,105.0,290 Đường Huỳnh Ngọc Huệ,Phường Hòa Khê,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,5.0,21.0,Đông Bắc,11.0,2,3,1,1,1,1,0
+6.5,100.0,15 Đường Phú Xuân 2,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,5.0,20.0,Đông Bắc,6.0,3,3,1,1,1,1,0
+5.2,75.0,77 Đường Lê Thiệt,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,4.5,16.0,Đông Bắc,6.0,3,3,1,1,1,1,0
+5.555,60.0,21 Đường Đào Duy Từ,Phường Vĩnh Trung,Quận Thanh Khê,Đà Nẵng,Nhà trong hẻm,5.0,11.0,Bắc,4.0,3,3,1,1,1,1,0
+4.35,100.0,30 Đường Bàu Năng 11,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,5.0,20.0,Đông Nam,8.0,1,1,1,1,1,1,0
+6.6,90.0,179 Đường Bế Văn Đàn,Phường Thạc Gián,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,5.0,18.0,Bắc,6.0,2,3,1,1,1,1,0
+7.8,90.0,Đường Nguyễn Quang Bích,Phường Hòa Cường Bắc,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,5.0,18.0,_,5.5,3,3,1,1,1,1,0
+11.9,88.0,Đường Hải Phòng,Phường Hải Châu,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,4.0,22.0,_,9.0,3,3,1,1,0,0,0
+9.8,90.0,Đường Nguyễn Công Trứ,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,4.0,23.0,_,10.0,2,3,1,1,1,0,0
+8.4,90.0,Đường Lê Hữu Trác,Phường An Hải Nam,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,4.2,21.0,_,7.5,3,3,1,1,1,0,0
+4.05,72.0,Đường Nại Hiên Đông 5,Phường Nại Hiên Đông,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,4.0,18.0,_,5.5,1,2,1,1,1,0,0
+4.0,72.0,Đường Nại Hiên Đông 5,Phường Nại Hiên Đông,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,4.0,18.0,_,5.5,2,2,1,1,1,1,0
+6.5,100.0,Đường Lưu Hữu Phước,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,20.0,_,5.5,1,2,1,1,0,1,0
+5.2,70.0,Đường Vũ Trọng Phụng,Phường Hòa Cường Nam,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,4.0,17.5,_,5.5,2,2,1,1,1,1,0
+10.0,125.0,Đường Đoàn Khuê,Phường Khuê Mỹ,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,5.0,25.0,_,11.0,3,4,1,1,1,1,0
+4.4,72.0,Đường Nại Hiên Đông 5,Phường Nại Hiên Đông,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,4.5,18.0,_,5.5,3,3,1,1,1,1,0
+11.5,125.0,Đường Ngô Quyền,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,25.0,_,60.0,4,9,1,1,1,1,0
+9.5,85.0,Đường Trần Nhân Tông,Phường Mân Thái,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,17.0,_,7.5,3,3,1,1,1,1,0
+11.7,85.0,Đường Nguyễn Hữu Thọ,Quận Hải Châu,Đà Nẵng,,Nhà mặt tiền,4.0,22.0,_,35.0,3,4,1,1,1,1,0
+4.55,65.0,Đường Nại Hiên Đông,Phường Nại Hiên Đông,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,4.5,14.5,_,6.0,3,3,1,1,1,1,0
+6.65,90.0,Đường Hồ Nguyên Trừng,Phường Hòa Cường Nam,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,4.5,20.0,_,7.5,2,6,1,1,0,1,0
+11.5,100.0,Đường Lý Triện,Phường An Khê,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,5.0,20.0,_,7.5,5,4,1,1,1,1,0
+5.75,100.0,Đường Mai Anh Tuấn,Phường Hòa Xuân,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,5.0,20.0,_,5.5,3,4,1,1,1,0,0
+3.5,53.0,Đường An Nhơn 11,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,4.4,12.0,_,5.5,1,2,1,1,0,0,0
+7.7,70.0,Đường An Nhơn 8,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,14.0,_,7.5,2,3,1,1,1,1,0
+10.9,90.0,Đường Mỹ Đa Đông 1,Phường Mỹ An,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,4.5,20.0,_,5.5,3,4,1,1,1,1,0
+6.8,68.0,Đường Mỹ Đa Đông 5,Phường Mỹ An,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,4.0,17.0,Đông Bắc,5.5,2,3,0,0,0,0,0
+6.35,70.0,Đường Huy Cận,Phường Hòa Cường Bắc,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,5.0,12.0,_,5.5,2,3,1,1,1,1,0
+13.6,180.0,Đường Hồ Huân Nghiệp,Phường Mỹ An,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,10.0,18.0,_,5.5,2,6,1,1,1,1,0
+5.9,74.0,Đường Phạm Thế Hiển,Phường Khuê Trung,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,4.5,16.4,_,5.5,3,7,1,1,1,1,0
+5.8,81.0,Đường Trần Hữu Trang,Phường Hòa Cường Bắc,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,4.5,18.0,_,5.5,2,3,1,1,1,1,0
+28.5,121.0,Đường Nguyễn Văn Thoại,Phường Mỹ An,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,7.5,16.0,_,15.0,2,2,1,1,1,1,0
+10.7,102.0,Đường Mỹ Đa Đông 12,Phường Mỹ An,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,4.85,21.0,_,6.0,2,5,1,1,1,1,0
+10.2,66.0,Đường Dương Đình Nghệ,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,4.0,16.5,_,5.5,4,4,1,1,1,1,0
+10.6,76.0,Đường Trưng Nữ Vương,Phường Bình Hiên,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,4.2,18.0,_,7.5,3,4,1,1,1,1,0
+27.5,188.0,Đường Dương Khuê,Phường Mỹ An,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,12.0,16.0,_,15.0,3,4,0,0,0,0,0
+6.1,38.0,Đường An Thượng 12,Phường Mỹ An,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,4.0,9.5,_,4.0,4,4,1,1,1,1,0
+10.8,96.0,Đường An Hải Đông 1,Phường Nại Hiên Đông,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,19.0,_,5.5,2,2,1,1,1,1,0
+4.1,56.0,Đường Nại Nghĩa 4,Phường Nại Hiên Đông,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,4.1,13.5,Tây Bắc,4.0,2,2,0,0,0,0,0
+8.9,75.0,Đường Dương Trí Trạch,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,15.0,_,5.5,3,3,0,0,0,0,0
+5.2,70.0,Đường Chế Lan Viên,Phường Mỹ An,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà trong hẻm,5.0,14.0,_,5.0,2,2,1,1,1,1,0
+6.05,120.0,Đường Chế Lan Viên,Phường Mỹ An,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà trong hẻm,5.0,24.0,_,3.5,1,2,0,1,0,1,0
+6.5,90.0,Đường Đào Duy Kỳ,Phường Nại Hiên Đông,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,18.0,Tây Bắc,5.0,3,3,0,0,0,0,0
+6.5,87.0,Đường Nguyễn Trung Trực,Phường Nại Hiên Đông,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,4.4,20.0,Tây,7.5,2,4,0,0,0,0,0
+5.9,90.0,Đường Thích Thiện Chiếu,Phường Thọ Quang,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,4.5,20.0,Tây Bắc,5.5,3,3,0,0,0,0,0
+5.1,80.0,Đường Hồ Sĩ Tân,Phường Nại Hiên Đông,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,16.0,Tây Bắc,7.5,1,2,0,0,0,0,0
+7.5,93.0,Đường Lý Nhân Tông,Phường Khuê Trung,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,5.0,18.6,_,7.5,3,3,1,1,1,1,0
+22.9,106.0,Đường Nguyễn Văn Linh,Phường Thạc Gián,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,4.5,23.5,_,30.0,4,5,1,1,1,1,0
+5.45,88.0,Đường Đỗ Đăng Tuyển,Phường Khuê Trung,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,5.0,17.5,_,7.5,3,3,1,1,1,1,0
+6.3,86.0,Đường Trường Chinh,Phường An Khê,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,6.0,14.3,_,30.0,4,4,1,1,1,1,0
+28.0,145.0,Đường Núi Thành,Phường Hòa Cường Nam,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,4.4,33.0,_,10.0,7,17,1,1,1,1,0
+4.999,56.0,Đường An Cư,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,4.0,14.0,_,5.5,2,3,1,1,1,1,0
+19.8,100.0,Đường Tiên Sơn,Phường Hòa Cường Nam,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,8.3,12.0,_,5.5,7,21,1,1,1,1,0
+10.8,114.0,Đường Hồ Nguyên Trừng,Phường Khuê Trung,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,6.5,17.5,_,5.5,3,10,1,1,1,1,0
+5.4,90.0,Đường Doãn Uẩn,Phường Khuê Mỹ,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,5.0,18.0,_,7.5,2,2,1,1,0,1,0
+6.5,80.0,Đường Tiên Sơn,Phường Hòa Cường Nam,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,4.5,17.7,_,5.5,3,3,1,1,1,1,0
+11.5,100.0,Đường Văn Tiến Dũng,Phường Hòa Xuân,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,5.0,20.0,_,10.0,6,11,1,1,1,1,0
+8.2,70.0,Đường 2/9,Phường Hòa Cường Nam,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,4.5,15.5,_,33.0,4,3,1,1,1,1,0
+6.4,105.0,Đường Tiên Sơn,Phường Hòa Cường Nam,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,6.7,15.0,_,5.5,2,2,1,1,0,1,0
+11.7,85.0,Đường Nguyễn Hữu Thọ,Quận Hải Châu,Đà Nẵng,,Nhà mặt tiền,4.0,21.5,_,35.0,3,4,1,1,1,1,0
+5.6,70.0,Đường Trần Huy Liệu,Phường Khuê Trung,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,6.0,11.6,_,7.5,3,4,1,1,1,1,0
+15.8,171.0,Đường Thạch Lam,Phường Phước Mỹ,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,9.7,18.0,_,5.0,1,1,1,1,0,1,0
+5.5,81.0,Đường Đoàn Quý Phi,Phường Hòa Cường Nam,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,4.5,18.0,_,5.5,3,3,1,1,1,1,0
+5.3,55.0,Đường An Thượng,Phường Phước Mỹ,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,11.0,_,5.5,1,2,1,1,1,1,0
+6.55,115.0,Đường Bàu Tràm 3,Phường Khuê Trung,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,5.0,23.0,_,5.5,3,3,1,1,1,1,0
+9.35,45.0,Đường Trưng Nữ Vương,Phường Phước Ninh,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,5.8,7.75,_,7.5,2,2,1,1,0,1,0
+4.65,86.0,Đường Hồ Xuân Hương,Phường Khuê Mỹ,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà trong hẻm,4.0,21.0,_,5.0,2,3,1,1,1,1,0
+4.8,105.0,Đường Hoàng Diệu,Phường Bình Thuận,Quận Hải Châu,Đà Nẵng,Nhà trong hẻm,9.0,15.0,_,3.0,2,3,1,1,0,0,0
+3.95,79.0,Đường Nguyễn Phước Nguyên,Phường Thanh Khê Đông,Quận Thanh Khê,Đà Nẵng,Nhà trong hẻm,4.0,20.0,_,3.0,3,3,1,1,1,0,0
+4.4,40.0,Đường Tố Hữu,Phường Hải Châu,Quận Hải Châu,Đà Nẵng,Nhà trong hẻm,6.0,5.0,_,3.0,4,3,1,1,1,0,0
+3.35,92.0,Đường Nguyễn Công Hoan,Phường Hòa An,Quận Cẩm Lệ,Đà Nẵng,Nhà trong hẻm,5.0,18.0,_,3.0,2,4,1,1,0,0,0
+6.2,80.0,Đường Nguyễn Tri Phương,Phường Chính Gián,Quận Thanh Khê,Đà Nẵng,Nhà trong hẻm,5.0,18.0,_,7.0,4,4,1,1,1,1,0
+4.05,72.0,Đường Nại Hiên Đông 5,Phường Nại Hiên Đông,Quận Sơn Trà,Đà Nẵng,Nhà trong hẻm,4.0,18.0,_,5.5,2,2,1,1,0,1,0
+3.15,50.0,Đường Trần Cao Vân,Phường Xuân Hà,Quận Thanh Khê,Đà Nẵng,Nhà trong hẻm,5.0,10.0,_,3.0,2,3,1,1,0,1,0
+3.55,69.0,Đường Dũng Sĩ Thanh Khê,Phường Thanh Khê Tây,Quận Thanh Khê,Đà Nẵng,Nhà trong hẻm,6.8,10.0,Tây Bắc,3.0,3,4,1,1,1,0,0
+2.85,33.0,Đường Điện Biên Phủ,Phường Chính Gián,Quận Thanh Khê,Đà Nẵng,Nhà trong hẻm,4.0,9.0,_,3.0,3,3,1,1,1,1,0
+4.9,100.0,Đường Bình An 7,Phường Hòa Cường Nam,Quận Hải Châu,Đà Nẵng,Nhà trong hẻm,7.0,14.0,_,3.0,2,3,1,1,0,1,0
+2.95,33.0,Đường Nguyễn Chí Thanh,Phường Hải Châu,Quận Hải Châu,Đà Nẵng,Nhà trong hẻm,3.5,10.0,_,3.0,3,2,1,1,1,1,0
+3.78,60.0,Đường Lê Thanh Nghị,Phường Hòa Cường Bắc,Quận Hải Châu,Đà Nẵng,Nhà trong hẻm,4.7,12.0,_,3.0,3,4,1,1,1,1,0
+4.95,63.0,Đường Điện Biên Phủ,Phường Chính Gián,Quận Thanh Khê,Đà Nẵng,Nhà trong hẻm,4.0,13.0,_,5.0,3,4,1,1,1,0,0
+4.86,80.0,Đường Phan Châu Trinh,Phường Hải Châu,Quận Hải Châu,Đà Nẵng,Nhà trong hẻm,3.0,24.0,_,3.0,3,4,1,1,1,1,0
+5.2,80.0,Đường Cẩm Nam,Phường Hòa Xuân,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,5.0,20.0,_,5.5,3,3,1,1,1,1,0
+3.79,118.0,Đường Phù Đổng,Phường Hòa Xuân,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,5.0,24.0,_,5.5,2,3,1,1,1,1,0
+6.65,95.0,Đường Tô Hiến Thành,Phường Phước Mỹ,Quận Sơn Trà,Đà Nẵng,Nhà trong hẻm,5.0,18.5,_,5.0,1,1,0,1,0,1,0
+7.4,184.0,Đường Nguyễn Đình Chiểu,Phường Khuê Mỹ,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,8.8,24.0,_,7.5,1,1,0,1,0,1,0
+4.59,75.0,Đường Trường Chinh,Phường An Khê,Quận Thanh Khê,Đà Nẵng,Nhà trong hẻm,5.0,15.0,_,5.0,5,9,1,1,1,1,0
+7.8,117.0,Đường Tôn Đức Thắng,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,5.0,18.0,_,33.0,2,2,1,1,1,1,0
+4.95,100.0,Đường Tôn Đản,Phường Hòa An,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,5.0,18.0,_,7.5,1,2,0,0,0,0,0
+15.5,125.0,Đường Nguyễn Tất Thành,Phường Thanh Khê Đông,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,5.0,25.0,_,40.0,3,4,0,0,0,0,0
+14.5,308.0,Đường Phạm Nhữ Tăng,Phường Hòa Khê,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,8.0,18.0,_,7.5,2,5,0,0,0,0,0
+5.1,75.0,Đường Nguyễn Cao,Phường Thanh Khê Đông,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,5.0,15.0,_,5.5,3,4,1,1,1,1,0
+5.99,85.0,Đường Đặng Minh Khiêm,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,5.0,18.0,_,5.5,2,3,1,1,1,1,0
+5.4,100.0,Đường Mai Anh Tuấn,Phường Hòa Xuân,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,5.0,20.0,_,5.5,3,3,1,1,0,1,0
+3.59,100.0,Đường Dương Bá Cung,Phường Hòa Xuân,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,5.0,20.0,_,5.5,2,2,1,1,0,1,0
+4.095,90.0,Đường Bàu Cầu 26,Xã Hòa Phước,Huyện Hòa Vang,Đà Nẵng,Nhà mặt tiền,5.0,18.0,_,5.5,2,3,1,1,0,1,0
+4.85,117.0,Đường Phù Đổng,Phường Hòa Xuân,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,5.0,23.0,_,5.5,3,4,1,1,0,1,0
+6.5,100.0,Đường Bùi Thiện Ngộ,Phường Hòa Xuân,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,5.0,20.0,_,7.5,2,2,0,1,1,1,0
+3.5,100.0,Đường Lương Khắc Ninh,Phường Hòa Xuân,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,5.0,20.0,_,7.5,---,---,0,0,0,0,0
+5.5,80.0,Đường Hòa Phú 1,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,5.0,16.0,_,5.5,3,3,1,1,1,1,0
+11.5,99.0,Đường Dương Đình Nghệ,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,19.8,_,7.5,3,3,0,0,0,0,0
+5.95,81.0,Đường Nguyễn Đổng Chi,Phường Hòa Cường Bắc,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,4.5,18.0,_,5.5,3,5,0,0,0,0,0
+8.5,62.0,Đường Núi Thành,Phường Hòa Cường Nam,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,4.7,13.0,_,10.0,2,3,0,0,0,0,0
+4.49,90.0,Đường Thanh Nghị,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,5.0,18.0,_,10.0,3,5,0,0,0,0,0
+4.75,82.0,Đường Nguyễn Chích,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,5.0,16.3,_,5.5,2,3,0,0,0,0,0
+4.85,64.0,Đường Lê Thị Hồng Gấm,Phường Hòa Cường Nam,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,4.0,16.0,_,5.5,---,2,0,0,0,0,0
+10.0,95.0,Đường Huỳnh Tấn Phát,Phường Hòa Cường Nam,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,5.0,19.0,_,10.0,3,4,0,0,0,0,0
+27.0,188.0,Đường Điện Biên Phủ,Phường Thanh Khê Đông,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,8.29,21.5,_,30.0,3,3,0,0,0,0,0
+13.8,118.0,Đường Lê Thanh Nghị,Phường Hòa Cường Bắc,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,5.0,24.0,_,10.0,2,3,0,0,0,0,0
+9.5,125.0,Đường Lê Đại Hành,Phường Hòa Thọ Đông,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,7.0,17.8,_,30.0,2,3,1,1,1,1,0
+32.0,230.0,Đường Nguyễn Hữu Thọ,Phường Khuê Trung,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,10.0,23.0,_,35.0,5,5,1,1,1,1,0
+11.8,102.0,Đường Huỳnh Tấn Phát,Phường Hòa Cường Nam,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,5.0,20.0,_,10.0,3,4,1,1,1,1,0
+27.0,188.0,Đường Điện Biên Phủ,Phường Chính Gián,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,8.2,21.5,_,33.0,3,3,1,1,1,1,0
+16.0,171.0,Đường Nguyễn Hoàng,Phường Phước Ninh,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,8.1,19.0,_,10.0,1,3,1,1,1,1,0
+20.5,100.0,Đường Hoàng Diệu,Phường Phước Ninh,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,6.5,15.5,_,10.0,2,3,1,1,1,1,0
+17.0,132.0,Đường Duy Tân,Phường Bình Thuận,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,5.68,23.0,_,15.0,1,2,1,1,1,1,0
+17.5,92.0,Đường Nguyễn Thị Minh Khai,Phường Thạch Thang,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,4.6,20.0,_,10.0,4,4,1,1,1,1,0
+26.5,190.0,Đường Ngô Quyền,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,8.5,22.7,_,45.0,5,15,1,1,1,1,0
+14.5,160.0,Đường Cách Mạng Tháng 8,Phường Khuê Trung,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,10.0,16.0,_,33.0,3,3,0,0,0,0,0
+25.0,103.0,Đường Hàm Nghi,Phường Thạc Gián,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,4.5,22.8,_,15.0,6,6,1,1,1,1,0
+14.9,62.0,Đường Hoàng Diệu,Phường Phước Ninh,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,5.5,12.0,_,10.0,5,5,1,1,1,1,0
+23.5,155.0,Đường Cô Giang,Phường Phước Ninh,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,6.0,24.0,_,5.5,---,---,1,1,1,1,0
+69.0,404.0,Đường Điện Biên Phủ,Phường Chính Gián,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,20.0,20.0,_,45.0,2,2,1,1,1,1,0
+12.9,90.0,Đường Vũ Ngọc Nhạ,Phường Thọ Quang,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,18.0,_,11.0,6,12,1,1,1,1,0
+15.0,70.0,Đường Lê Quý Đôn,Phường Hải Châu,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,5.5,13.0,_,7.0,3,4,0,0,0,0,0
+9.0,90.0,Đường Ỷ Lan Nguyên Phi,Phường Hòa Cường Bắc,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,4.5,20.0,_,7.0,3,4,0,0,0,0,0
+17.0,102.0,Đường Khuê Mỹ Đông 14,Phường Khuê Mỹ,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,6.0,17.0,_,7.5,7,12,1,1,1,1,0
+18.0,171.0,Đường Chính Hữu,Phường Phước Mỹ,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,6.5,18.0,_,10.0,1,2,0,0,0,0,0
+8.4,90.0,Đường Lê Hữu Trác,Phường An Hải Nam,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,4.3,18.0,_,5.5,3,3,0,0,0,0,0
+14.8,118.0,Đường Nguyễn Xuân Khoát,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,18.0,_,7.5,4,11,0,0,0,0,0
+8.2,130.0,Đường Thế Lữ,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,18.0,_,7.5,3,5,0,0,0,0,0
+10.9,88.0,Đường Tạ Mỹ Duật,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,18.0,Nam,5.5,4,4,0,0,0,0,0
+5.3,52.0,Đường An Thượng 14,Phường Mỹ An,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,5.0,18.0,_,5.5,1,2,0,0,0,0,0
+10.8,114.0,Đường Hồ Nguyên Trừng,Phường Khuê Trung,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,6.5,18.0,_,7.5,3,10,0,0,0,0,0
+8.9,80.0,Đường Ngô Quyền,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,18.0,Tây Nam,33.0,4,5,0,0,0,0,0
+25.1,106.0,Đường Nguyễn Văn Linh,Phường Thạc Gián,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,4.5,18.0,_,33.0,4,4,0,0,0,0,0
+19.0,250.0,Đường Nguyễn Duy Hiệu,Phường An Hải Nam,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,7.0,18.0,_,7.5,1,3,0,0,0,0,0
+7.9,85.0,Đường Thạch Lam,Phường Phước Mỹ,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.2,18.0,Đông,5.5,1,2,0,0,0,0,0
+10.8,200.0,Đường Doãn Kế Thiện,Phường Khuê Mỹ,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,10.0,18.0,_,7.5,1,3,0,0,0,0,0
+22.5,147.0,Đường Đống Đa,Phường Thuận Phước,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,6.5,18.0,_,15.0,3,3,0,0,0,0,0
+10.0,95.0,Đường Tô Hiến Thành,Phường Phước Mỹ,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,6.2,18.0,_,6.0,5,7,0,0,0,0,0
+22.5,160.0,Đường An Cư,Phường Phước Mỹ,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,10.0,18.0,_,6.0,6,13,0,0,0,0,0
+12.8,94.0,Đường Tiểu La,Phường Hòa Cường Bắc,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,6.0,18.0,_,7.5,3,5,0,0,0,0,0
+30.5,175.0,Đường Dương Đình Nghệ,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,10.0,18.0,_,7.5,3,4,0,0,0,0,0
+14.8,87.0,Đường Dương Đình Nghệ,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,18.0,_,7.5,4,4,0,0,0,0,0
+13.9,167.0,Đường Thủ Khoa Huân,Phường An Hải Nam,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,6.2,18.0,_,7.0,1,2,0,0,0,0,0
+14.0,91.0,Đường Chính Hữu,Phường An Hải Bắc,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,7.9,18.0,_,10.0,2,5,0,0,0,0,0
+12.25,104.0,Đường Lê Văn Thứ,Phường Mân Thái,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,4.2,24.0,_,5.5,6,8,1,1,1,0,0
+6.5,100.0,Đường An Hòa 11,Phường Hòa Xuân,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,5.0,20.0,_,7.5,3,3,1,1,1,1,0
+17.5,169.0,Đường Tô Hiến Thành,Phường Phước Mỹ,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,34.0,_,7.5,3,5,1,1,1,0,0
+15.0,91.0,Đường Nguyễn Văn Thoại,Phường Phước Mỹ,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,4.2,22.0,_,5.5,5,10,1,1,1,1,0
+6.5,100.0,Đường Bàu Gia Thượng 2,Phường Hòa Thọ Đông,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,5.0,20.0,_,7.5,4,5,1,1,1,1,0
+6.15,124.0,Đường Đặng Nhữ Lâm,Phường Thọ Quang,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,25.0,_,5.5,2,3,1,1,1,1,0
+5.5,72.0,Đường Cù Chính Lan,Phường Hòa Khê,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,4.5,15.7,_,7.5,3,3,1,1,1,1,0
+8.2,118.0,Đường Lê Tấn Trung.,Phường Mân Thái,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,5.0,22.0,_,5.5,2,3,1,1,1,1,0
+15.9,168.0,Đường Thủ Khoa Huân,Phường An Hải Tây,Quận Sơn Trà,Đà Nẵng,Nhà mặt tiền,28.0,168.0,_,7.0,1,3,1,1,1,1,0
+4.5,68.0,Đường Huỳnh Ngọc Huệ,Phường Hòa Khê,Quận Thanh Khê,Đà Nẵng,Nhà mặt tiền,4.6,15.0,_,10.0,2,3,1,1,1,1,0
+6.5,112.0,Đường Đỗ Thúc Tịnh,Phường Khuê Trung,Quận Cẩm Lệ,Đà Nẵng,Nhà mặt tiền,4.4,25.0,_,7.5,2,3,1,1,1,1,0
+9.2,133.0,Đường Chế Lan Viên,Phường Mỹ An,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,6.5,20.0,_,5.5,1,2,0,0,0,0,0
+4.2,93.0,Đường Bàu Cầu 26,Xã Hòa Châu,Huyện Hòa Vang,Đà Nẵng,Nhà mặt tiền,5.5,17.0,_,7.0,2,3,1,1,1,1,0
+7.5,107.0,Đường Nguyễn Thành Ý,Phường Hòa Cường Nam,Quận Hải Châu,Đà Nẵng,Nhà mặt tiền,4.0,25.0,_,5.5,3,4,1,1,1,1,0
+5.5,108.0,Đường Tô Hiệu,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,Nhà mặt tiền,4.0,24.0,_,7.5,2,3,1,1,1,1,0
+19.0,131.0,Đường Mỹ An 7,Phường Khuê Mỹ,Quận Ngũ Hành Sơn,Đà Nẵng,Nhà mặt tiền,6.2,24.0,_,7.5,3,4,1,0,1,1,0
